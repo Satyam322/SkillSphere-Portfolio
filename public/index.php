@@ -254,7 +254,7 @@ footer {
 </div>
 
 <footer>
-  © 2025 <strong style="color:var(--secondary)">SkillSphere</strong> | Designed by Satyam & Sandeep 💜
+  © 2025 <strong style="color:var(--secondary)">SkillSphere</strong> | Designed by Satyam 💜
 </footer>
 
 <script>
